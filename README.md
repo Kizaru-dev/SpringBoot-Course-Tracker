@@ -25,8 +25,8 @@ A comprehensive tracker documenting my Spring Boot mastery, from fundamentals to
 - [ ] System Design Patterns
 
 ## 🎯 Projects Built
-- **Project 1**: [Description] - [Technologies]
-- **Project 2**: [Description] - [Technologies]
+- Expense Tracker: [Description] - [Technologies]
+- Job Portal:  [Description] - [Technologies]
 
 ## 📊 Progress Tracker
 - Modules Completed: 0/12
